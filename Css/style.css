@@ -1,0 +1,19 @@
+h1 {
+    color: magenta; ;
+}
+img {
+border-width: 10-px;
+border-color: yellowgreen;
+border-style: solid;
+
+}
+p  {color: magenta;}
+
+P#Geweldenaar {
+    color: lime;
+}
+body {
+    background-color: blue;
+    background-image: url("https://media1.tenor.com/m/2LQOdHCrA0YAAAAd/jo-bonten-surival-expert-jo-bonten.gif")
+    background-size: 10px; 
+}
